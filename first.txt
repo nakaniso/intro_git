@@ -12,4 +12,5 @@ GWのお父さん業はなかなかハードなんです。
 
 ----
 git status
+git diff
 
